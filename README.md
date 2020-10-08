@@ -12,7 +12,7 @@ Alex Angelico
 
 ## Description
 
-Demonstration of wireframing abilities with .
+Demonstration of wireframing abilities with CSS.
 
 ## Technical References
 
